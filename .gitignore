@@ -1,0 +1,4 @@
+notebooks/.ipynb_checkpoints/
+data/test/
+data/train/
+data/sampleSubmission.csv
