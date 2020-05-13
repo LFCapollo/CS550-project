@@ -3,4 +3,5 @@ notebooks/.ipynb_checkpoints/
 notebooks/data/
 data/test/
 data/train/
+data/data/
 data/sampleSubmission.csv
